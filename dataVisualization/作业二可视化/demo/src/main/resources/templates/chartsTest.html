@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Charts</h1>
+<div id="text">
+    <h3>年表</h3>
+    <a href="http://localhost:8080/charts/djk?year=2021">获取年表</a><br/>
+    <ul>
+        <li th:each="amt, amtStat : ${yearChart.getAmounts()}">
+            <span th:text="${amtStat.index} + ': ' + ${amt}"></span>
+        </li>
+    </ul>
+
+    <h3>月表</h3>
+    <a href="http://localhost:8080/charts/djk/month?year=2021&month=2">获取月表</a><br/>
+    <ul>
+        <li th:each="amt, amtStat : ${monthChart.getAmounts()}">
+            <span th:text="${amtStat.index} + ': ' + ${amt}"></span>
+        </li>
+    </ul>
+</div>
+</body>
+</html>
