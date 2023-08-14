@@ -1,0 +1,667 @@
+Auction	N_Item	Average_Q	N_invited	BFQ	time4	time6	time7	time8	time9	time10	time11	time12	time14	time15	time19	bid2	bid3	bid4	bid5	bid8	mkt2	mkt3	mkt4	mkt7
+*	1	1	1	1	0	1	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Doc142699215.xls	2	780	3	383994	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc142748045.xls	1	1	4	764312.5	Parallel	10	No	NA	Yes	4	5	5	NA	NA	NA	NA	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc143348003.xls	1	1	3	78190	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc143556464.xls	3	1	7	17920235.3	Parallel	10	Yes	2	Yes	6	1	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc147771865.xls	3	1	6	234310.34	Serial	NA	Yes	2	Yes	5	3	3	20	5	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc149032137.xls	1	1	3	18000	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc149033902.xls	1	1	3	22951	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc151115898.xls	1	1	5	145800	Serial	NA	Yes	2	Yes	2	2	2	25	2	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc151279079.xls	1	4000	4	48000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc151591834.xls	1	1	4	132384	Serial	NA	Yes	2	Yes	3	3	3	25	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc151609221.xls	6	1	11	274360.08	Staggered	NA	Yes	2	Yes	4	5	5	30	2	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc151672894.xls	2	52.5	3	19566	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc153795692.xls	1	6	3	25800	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc154901168.xls	1	1	3	162000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc155285364.xls	3	1	3	73159.31	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc156561344.xls	1	1	4	15985.34	Serial	NA	Yes	2	Yes	3	2	2	20	2	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc156563140.xls	1	1	3	10680	Serial	NA	Yes	2	Yes	3	2	2	30	2	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	No	No
+Doc156850598.xls	2	2	3	32640	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc157599795.xls	1	1	6	2032352	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc157766958.xls	1	1	4	75257	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc158026610.xls	2	1	3	154400	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	NA	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc158521714.xls	1	3	3	29148	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc159204090.xls	1	1	7	3711532	Parallel	30	No	NA	Yes	7	4	4	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc159294347.xls	2	650	4	234000	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc159478386.xls	2	3	3	53100	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc159669656.xls	1	1	3	141775	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc160367485.xls	1	1	4	164606.9	Parallel	30	Yes	2	Yes	4	6	6	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc160831014.xls	1	1	4	396696	Parallel	30	No	NA	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc160849289.xls	1	1	6	1249848	Parallel	30	No	NA	Yes	6	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc160859522.xls	1	1	4	328900	Parallel	30	Yes	2	Yes	3	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc161013832.xls	1	1	3	54500	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc161774419.xls	1	1	4	172413.79	Serial	NA	Yes	2	Yes	3	2	2	30	2	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc162503863.xls	1	1	5	611592	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc163813810.xls	1	1	6	146500	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc163816902.xls	1	1	4	841503	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc164566925.xls	1	1	5	563787	Serial	NA	Yes	2	Yes	5	2	5	30	2	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc164826766.xls	1	1	3	64373	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	Yes	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc165185230.xls	1	1	7	2657570.19	Parallel	30	Yes	2	Yes	6	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc165231445.xls	1	1	3	527732	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc165231486.xls	2	1	4	791750	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc165557545.xls	2	1	3	310344.82	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc166102590.xls	1	1	3	41500	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc166859428.xls	1	1	3	160194.17	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc166895621.xls	1	1	5	242575	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc167771420.xls	1	1	5	532380	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc168052532.xls	1	1	3	58500	Parallel	30	Yes	3	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc168404958.xls	1	1	4	2966514	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc168541653.xls	1	1	4	1136432.9	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc168745607.xls	1	1	3	125635	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc169144356.xls	2	1	3	137240	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc169861996.xls	3	1	4	436157	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc169869230.xls	1	1	4	246560.34	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc170198060.xls	2	1	4	1045805	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc170392039.xls	2	1	4	12048308.1	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc170678780.xls	1	1	3	114900.6	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc170889029.xls	3	2.333333333	3	24574.98	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc173771642.xls	1	1	6	3845125	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc174080664.xls	1	1	7	3754000	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc175431103.xls	6	1	4	1660620.34	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc175995015.xls	2	1	4	11620694	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc176171510.xls	1	1	3	17202638	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc176810188.xls	2	1	3	187456	Parallel	30	Yes	5	Yes	10	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc177692876.xls	1	1	4	797800	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc178455338.xls	1	1	6	355000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc179164539.xls	1	1	2	41000	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc179993490.xls	1	1	5	1187950	Parallel	60	Yes	2	Yes	3	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc180826639.xls	2	1	3	3108464	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc181399585.xls	1	1	5	1919880	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc181915274.xls	16	1	4	2099800	Serial	NA	Yes	2	Yes	3	5	5	15	15	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc182217654.xls	1	1	3	257715	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc182617112.xls	1	1	4	2005700	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc183460424.xls	1	1	4	441731	Parallel	30	No	NA	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc184671136.xls	1	1	5	487150	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc184748942.xls	1	1	4	56100	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc184878190.xls	1	1	3	192703	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc184926548.xls	1	1	4	288805	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc185079262.xls	5	1842.4	5	2286229.04	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc185576477.xls	1	1	3	4330000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc187336453.xls	1	1	3	72176	Parallel	30	No	NA	Yes	3	5	5	NA	NA	NA	NA	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc188029977.xls	1	1	5	4069300	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc188120459.xls	1	1	2	41000	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc188135097.xls	1	1	3	590700	Parallel	10	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc188478618.xls	1	1	2	23913	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc188478843.xls	2	1	6	2607838.9	Parallel	10	Yes	2	Yes	5	1	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc188930092.xls	1	1	3	284000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc188953706.xls	1	1	3	33857	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc189308286.xls	2	1	3	637420	Parallel	30	No	NA	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc190525695.xls	2	1	3	153880	Parallel	60	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc190531541.xls	2	9	3	517104	Parallel	20	Yes	2	Yes	3	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc190863844.xls	1	1	3	3701678	Parallel	30	Yes	5	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc193440638.xls	6	3.666666667	3	1403448.26	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc193443172.xls	1	12	3	26400	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc194198060.xls	2	1	3	140000	Parallel	30	Yes	1	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc194220553.xls	1	1	3	842400	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc194473684.xls	1	1	3	1902110	Parallel	30	No	NA	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc194609343.xls	2	1	3	1595808	Parallel	20	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc194610629.xls	1	1	4	309700	Parallel	80	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc194679345.xls	2	1	4	49735	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc195099755.xls	1	1	5	272560	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc195441293.xls	2	92	3	554024	Parallel	20	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc195995926.xls	1	1	4	271800	Parallel	30	Yes	1	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc195995985.xls	2	1	3	71800	Parallel	30	Yes	1	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc196090863.xls	1	1	3	427396.23	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc197642333.xls	1	1	4	305225	Parallel	40	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc199164133.xls	1	20	3	31100	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc199180746.xls	5	10	2	101870	Parallel	20	No	NA	No	NA	NA	NA	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc199285202.xls	1	1	3	255000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc199523140.xls	1	1	2	850934.7	Parallel	30	No	NA	Yes	10	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc200423383.xls	1	1	3	6427301.76	Parallel	30	Yes	5	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc201488807.xls	2	2	4	20724.14	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc201880993.xls	2	1	5	1248400	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc202266937.xls	1	1	3	2109660	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc202747346.xls	1	1	3	3278770	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc203581312.xls	9	36197.77778	9	1830377.8	Serial	NA	Yes	2	Yes	1	1	3	10	10	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc203725363.xls	2	1	3	246085.3	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc204709739.xls	2	1	3	160000	Parallel	60	Yes	5	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc204847456.xls	14	1	3	1437548.6	Serial	NA	Yes	5	Yes	3	5	5	5	5	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc204847491.xls	10	1	3	3103178	Serial	NA	Yes	5	Yes	3	5	5	5	5	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc208489817.xls	1	1	2	40000	Parallel	60	Yes	5	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc208950743.xls	3	1	3	84530220.45	Parallel	40	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc211336293.xls	1	1	5	1944500	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc211766704.xls	6	1866.666667	5	12314700	Parallel	30	Yes	2	Yes	5	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc214075427.xls	2	1	5	2951180	Parallel	20	No	NA	Yes	99	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc215405557.xls	1	500	2	249140	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc215798811.xls	1	1	2	5250000	Parallel	30	No	NA	Yes	10	2	2	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc217395159.xls	1	2	3	29433.96	Serial	NA	Yes	2	Yes	3	2	2	30	2	NA	Do not allow prebids	Nominal amount	Yes	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc218948135.xls	4	1	5	5173653.66	Serial	NA	Yes	2	Yes	5	5	5	30	30	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc220888738.xls	1	4	3	16477.84	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc221490954.xls	1	1	2	47754.72	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc224111158.xls	14	771.4285714	4	1554220	Parallel	30	Yes	3	Yes	4	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc224820462.xls	1	1	3	256200	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc224833436.xls	1	1	4	1690000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc226038799.xls	1	1	4	528943	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc226393189.xls	1	42000	6	210000	Parallel	15	Yes	1	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc226861497.xls	1	1	3	2242053	Parallel	40	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc227259333.xls	1	1	4	180000	Parallel	80	Yes	2	Yes	3	7	7	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc227281438.xls	2	1	3	96000	Parallel	80	Yes	2	Yes	3	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc228557810.xls	2	2	3	16760	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc229039185.xls	7	88	4	117108.88	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc229245246.xls	1	160	3	27611.2	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc230007736.xls	37	587.4254054	9	16849882.99	Parallel	45	Yes	30	Yes	4	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc230131721.xls	1	1	5	427853	Parallel	30	No	NA	Yes	5	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc230142483.xls	1	2	3	21047.78	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc231421209.xls	1	2	3	25878.32	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc231935918.xls	1	1	3	1422223.27	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc235016442.xls	1	160	4	220800	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc235328034.xls	1	1	5	298000	Parallel	80	Yes	2	Yes	3	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc238109965.xls	2	717000	3	2868000	Parallel	20	Yes	3	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc239163632.xls	8	3375	5	866120	Parallel	30	Yes	1	Yes	2	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc239238236.xls	21	4028.571429	6	3929800	Serial	NA	Yes	1	Yes	2	2	2	15	15	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc244297523.xls	1	1	3	25221.24	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc244514518.xls	1	1	4	516592.92	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc245672141.xls	2	1	3	141747.56	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc245865666.xls	4	2313.75	5	5056127.6	Parallel	20	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc245867434.xls	6	2937.666667	3	8836163.52	Parallel	20	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc246213854.xls	1	2	3	29707.96	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc247139335.xls	1	1	4	307323	Parallel	80	Yes	2	Yes	3	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc248948115.xls	2	1	5	1992178	Serial	NA	Yes	2	Yes	4	5	5	20	2	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc248948146.xls	1	1	3	1585000	Serial	NA	Yes	2	Yes	3	5	5	40	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc250820547.xls	1	1	5	469430000	Parallel	30	No	NA	No	NA	NA	NA	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc250906636.xls	2	1	3	570681	Parallel	30	No	NA	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc251473947.xls	1	1	4	138846.94	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc251904151.xls	2	1500	4	750000	Parallel	30	Yes	2	Yes	4	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc252042043.xls	2	1	4	4261582	Parallel	20	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc252216746.xls	1	1	1	16520000	Serial	NA	Yes	2	Yes	2	2	2	10	2	NA	Allow prebids	Nominal amount	Yes	No tie bids	Yes	No	No	No	No
+Doc252255514.xls	1	1	3	80000	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc252313631.xls	1	1	3	299999	Serial	NA	Yes	2	Yes	3	3	3	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc252355053.xls	1	1	6	145000	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc252365980.xls	1	1	4	96530.94	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc252822537.xls	2	1	5	55746100	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc253195866.xls	4	1	3	1348220	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc253198262.xls	1	1	6	487756	Parallel	30	Yes	2	Yes	6	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc253203013.xls	1	1	4	621477	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc255347261.xls	1	1	3	268898	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc255478318.xls	8	1	3	668344	Parallel	20	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc257192538.xls	1	1	4	125350	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc258686377.xls	1	1	4	348549	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc259255181.xls	2	1	6	2194600	Parallel	30	Yes	2	Yes	6	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc261209876.xls	1	240	3	120000	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc262704189.xls	2	1	6	10427830.72	Parallel	40	Yes	2	Yes	6	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc264734521.xls	1	1	4	323000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc265550391.xls	1	1	5	4367770	Parallel	20	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc266607058.xls	2	1	4	5354166	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc267264081.xls	1	60	3	271698	Parallel	45	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc267688589.xls	1	2	3	31070.78	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc267723921.xls	1	1	3	13426955	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc268647609.xls	1	1	5	1296800	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc269077059.xls	1	504	2	100800	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc269877610.xls	1	24	3	209708.64	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc270281442.xls	1	1	4	284040	Parallel	20	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc271433038.xls	1	25	3	30000	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc272501718.xls	1	100000	4	2498000	Parallel	30	No	NA	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc272727677.xls	1	1	6	286336	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc276765233.xls	1	1	5	1104114	Parallel	20	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc277217794.xls	1	1	2	4950000	Serial	NA	Yes	2	Yes	2	2	2	10	2	NA	Do not allow prebids	Nominal amount	No	Break tie bids by submit time	Yes	No	No	No	No
+Doc277722400.xls	1	1	3	21514153	Parallel	60	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc279539766.xls	1	1	7	194740571	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc279759128.xls	1	1	5	614935	Parallel	80	Yes	2	Yes	3	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc280414410.xls	5	1	3	773670	Serial	NA	Yes	2	Yes	2	2	2	10	10	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc283147118.xls	2	1	3	4178244	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc283147154.xls	1	1	4	97345	Parallel	80	Yes	2	Yes	3	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc285391094.xls	2	1	4	18444012	Parallel	30	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc286635351.xls	2	1	6	1057249.5	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc294891523.xls	1	1	3	8747375.4	Parallel	30	No	NA	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc294892374.xls	6	313.3333333	3	1762500	Serial	NA	Yes	2	Yes	3	2	2	10	2	NA	Do not allow prebids	Nominal amount	No	Allow tie bids for all ranks	Yes	No	No	No	No
+Doc295324019.xls	1	1	4	372696	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc295903662.xls	1	1	4	8267157	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc296721025.xls	1	1	3	5652194	Parallel	30	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc297436154.xls	1	1	4	167085000	Serial	NA	No	NA	Yes	1	2	2	20	1	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc299255662.xls	2	1	2	14160000	Serial	NA	Yes	2	Yes	3	2	2	15	15	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc300157409.xls	1	1	5	126000	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc300394170.xls	8	270	3	2191153	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc302038862.xls	3	1	7	1032554.5	Parallel	20	Yes	2	Yes	5	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	Yes	Their own rank	"Yes, to Buyers and Participants"	No
+Doc303794593.xls	1	1	3	5900000	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc304096931.xls	2	1	4	1128000	Parallel	30	Yes	2	Yes	1	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc306260417.xls	2	1	5	66264.6	Parallel	45	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc306717752.xls	2	1	5	13407046	Parallel	80	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc307906370.xls	1	1	3	138166.37	Parallel	30	No	NA	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc307947213.xls	1	1	3	431805.99	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc307947252.xls	1	1	5	22358218.05	Parallel	15	Yes	3	Yes	5	5	5	NA	NA	NA	Allow prebids	Nominal amount	Yes	No tie bids	No	No	Their own rank	No	No
+Doc308702836.xls	2	1	5	1706326	Parallel	20	Yes	3	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc309364163.xls	2	1	8	1.49E+08	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc309380343.xls	2	24	4	3970560	Parallel	30	Yes	2	Yes	4	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	Yes	No	No	No
+Doc310083138.xls	1	1	3	6.59E+08	Parallel	30	No	NA	No	NA	NA	NA	NA	NA	NA	NA	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc311458291.xls	2	1	3	921126	Serial	NA	Yes	2	Yes	3	5	5	30	30	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc311459422.xls	2	90000	5	396000	Parallel	20	Yes	2	Yes	5	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc311459681.xls	1	1	3	1930990	Parallel	30	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc312970929.xls	2	1	4	956000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc313665660.xls	1	1	3	49115.04	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc314353507.xls	1	1	3	256500	Parallel	30	No	NA	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc314527240.xls	2	1	3	120000	Parallel	45	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc315635706.xls	2	1	5	2395900000	Serial	NA	No	NA	Yes	1	2	2	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc316672069.xls	1	1	3	162968.48	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc316724961.xls	1	1	3	1083000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc317831593.xls	2	1	4	584930	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc317884828.xls	1	1	2	731000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc317907972.xls	1	1	4	2872708	Parallel	80	Yes	2	Yes	4	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	Yes	Their own rank	No	No
+Doc318795404.xls	2	1	3	4166556	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc320145195.xls	6	1	2	14975700	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc320194763.xls	2	1	3	4166556	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	No	No
+Doc324572090.xls	1	1	5	793518	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc328869266.xls	1	1	3	397453	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	Yes	No	No	No
+Doc329800900.xls	2	1	5	1039511	Parallel	20	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc330056549.xls	2	1	5	47452000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc330061753.xls	1	1	3	3791328	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc330667929.xls	9	176.1111111	12	4058341.74	Serial	NA	Yes	2	Yes	10	2	2	15	10	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc331523380.xls	4	408	4	1212600	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc334274520.xls	1	1	3	501145	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc334419222.xls	2	1.5	5	569865	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc335200576.xls	7	384233.4	3	6233815226	Parallel	60	Yes	3	Yes	3	3	6	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc335599864.xls	3	216	3	4680000	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc336386223.xls	2	80	3	106080	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc336435529.xls	1	1	2	1509900	Parallel	30	No	NA	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc337009883.xls	1	1	5	8641642	Parallel	30	No	NA	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc337317109.xls	3	2.333333333	3	111893.2	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc337334489.xls	1	1	5	920000	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc337438985.xls	1	1	3	122000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc337473514.xls	1	1	3	1663200	Parallel	80	Yes	2	Yes	3	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc338014200.xls	2	1	6	697906	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc338122302.xls	1	1	5	429742.96	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc338963279.xls	1	1	3	719854.3	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc338965865.xls	1	1	4	519560	Parallel	45	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc338983502.xls	1	1	3	180500	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc338987521.xls	1	1	4	2396400	Parallel	40	Yes	2	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc339321815.xls	4	1	6	2694793.2	Parallel	20	Yes	3	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc339321857.xls	2	1	4	2.00E+05	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc339331498.xls	1	1	2	6057000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc339333018.xls	1	1	6	431486	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc339370976.xls	2	1	7	10180582	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc339736662.xls	1	1	3	162000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc339989158.xls	6	1	7	4656637.32	Parallel	50	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc339994331.xls	15	948	6	2811903.4	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc340608139.xls	2	1	8	1926799.6	Parallel	20	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc340852196.xls	2	1	3	932924	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc340884710.xls	1	1	4	523620	Serial	NA	Yes	2	Yes	3	5	5	10	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc341575191.xls	1	1	6	481220.4	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc341581916.xls	1	1	5	1230757	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc343032663.xls	1	1	5	510109	Parallel	80	Yes	2	Yes	3	7	7	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc343555354.xls	1	1	5	725022	Parallel	40	Yes	2	Yes	5	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc344923914.xls	2	1	4	1028000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc345344119.xls	1	1	5	301000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank when leading	No	No
+Doc346534124.xls	1	1	4	23584295	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc348025767.xls	1	1	3	212200	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc348599553.xls	1	1	5	688862	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc348920413.xls	1	1	2	740936000	Serial	NA	No	NA	Yes	1	2	2	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc361035172.xls	1	1	5	1550500	Parallel	30	No	NA	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc364987672.xls	1	1	3	16028158.81	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc366321998.xls	1	1	2	2.70E+07	Parallel	60	Yes	3	Yes	2	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc369958023.xls	1	100	2	170000	Parallel	30	Yes	2	Yes	2	2	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	"Yes, to Buyers only"	No
+Doc369959534.xls	3	1	3	6050088	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Require prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc370503412.xls	1	1	4	1698185	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc372779503.xls	3	1	4	4249000	Parallel	45	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc374297839.xls	2	24	3	2640000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc376215579.xls	1	1	3	130260	Parallel	20	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc376402905.xls	4	24	3	5050776	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc376930773.xls	2	3	4	807000	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	Yes	Their own rank	No	No
+Doc380213484.xls	1	12	3	633600	Serial	NA	Yes	2	Yes	2	5	5	20	20	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc381366115.xls	1	1	4	284200	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc381366159.xls	1	1	3	258240.53	Parallel	25	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc383305082.xls	2	1	2	6615798.2	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc384403064.xls	1	1	2	1357117	Parallel	40	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc391273810.xls	1	1	3	238896	Parallel	60	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc391391610.xls	1	1	3	80250	Parallel	40	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc403503457.xls	1	28920	4	225576	Parallel	30	Yes	2	Yes	2	2	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc403662927.xls	4	1	3	2425904	Parallel	15	Yes	3	Yes	3	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc408649930.xls	1	1	5	308400	Parallel	30	No	NA	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc409159807.xls	1	1	4	178155	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc409159848.xls	1	60	2	87610.8	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	Yes	Their own rank	"Yes, to Buyers and Participants"	No
+Doc410391372.xls	5	1	5	878834	Parallel	30	Yes	2	Yes	4	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc412089512.xls	1	1	3	495000	Parallel	40	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc416103064.xls	1	1	4	12656691.78	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc423386371.xls	1	1	2	12582708	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc423625606.xls	1	1	2	1760240	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc425011040.xls	4	1	4	1401033	Parallel	30	Yes	5	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc425508347.xls	2	1	4	506436	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	Their own rank	No	No
+Doc428056263.xls	1	45	4	196200	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc430454927.xls	1	1	6	4806300	Serial	NA	Yes	3	Yes	3	3	3	30	30	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc430520401.xls	2	1	6	15460908	Parallel	30	Yes	3	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc431458421.xls	1	1	4	446920	Parallel	30	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc433592311.xls	1	20	3	46400	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc433599278.xls	2	41000	3	4553460	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc435384338.xls	1	1	6	535550	Parallel	40	Yes	2	Yes	6	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc436110535.xls	2	1	3	396743.6	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc444275620.xls	19	1005.894737	3	2348120	Serial	NA	Yes	2	Yes	2	2	5	20	10	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc449322268.xls	2	1	5	1148326.92	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc454944267.xls	1	1	4	927048.12	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc455273603.xls	2	800	5	98080	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc458861430.xls	1	12	4	1485600	Parallel	30	Yes	2	Yes	1	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc459371448.xls	2	1	2	429620	Parallel	30	Yes	2	Yes	1	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	Allow tie bids for all ranks	Yes	No	No	No	No
+Doc459720955.xls	1	12	3	1641600	Parallel	30	Yes	2	Yes	1	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	Allow tie bids for all ranks	Yes	No	No	No	No
+Doc460693374.xls	1	1	5	995840	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	No	No
+Doc460697625.xls	1	1	3	115925.7	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc464407448.xls	8	31950	4	471144	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc464446347.xls	1	1	2	405120	Serial	NA	Yes	2	Yes	2	5	5	30	10	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc466726526.xls	1	1350	8	493209	Parallel	30	Yes	2	Yes	1	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	Allow tie bids for all ranks	Yes	No	No	No	No
+Doc467321049.xls	2	1	3	1775500	Parallel	20	Yes	1	Yes	2	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc468388760.xls	1	1	4	4.00E+05	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc468847031.xls	4	1	2	15550220	Parallel	40	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc469637074.xls	10	55162.4	3	2213515.6	Parallel	15	Yes	1	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc474989230.xls	1	12	3	237576	Serial	NA	Yes	2	Yes	3	2	2	20	10	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc475026553.xls	1	1	3	322000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc475538867.xls	1	1	3	246947.8	Parallel	20	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	No	No
+Doc475553687.xls	1	1	3	87903	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc476210048.xls	1	1	2	2587000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc476256651.xls	2	250	5	250000	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc478815162.xls	8	1	5	7667250	Parallel	45	Yes	2	Yes	6	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc478932509.xls	2	1	3	1179200	Parallel	25	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc479461149.xls	3	4000	4	3312000	Serial	NA	Yes	2	Yes	2	2	2	10	10	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc479616437.xls	1	1	3	180700	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc481032784.xls	2	1	3	373584	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc481560045.xls	1	1	5	637290	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc482335316.xls	1	1	2	925000	Parallel	40	Yes	2	Yes	2	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc484871703.xls	1	1	4	954000	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc486973980.xls	1	1	2	6.00E+05	Parallel	40	Yes	5	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc486986364.xls	1	1	3	589600	Parallel	35	Yes	2	Yes	2	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc488842825.xls	1	50	3	182743.5	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc489687928.xls	1	1	5	327350	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc491241352.xls	1	1	3	457345	Parallel	25	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc491452585.xls	1	1	4	358500	Parallel	30	Yes	5	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc492594775.xls	1	1	1	201000	Parallel	30	Yes	2	Yes	1	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	Allow tie bids for all ranks	Yes	No	No	No	No
+Doc493174859.xls	2	1	6	3591704	Parallel	30	Yes	2	Yes	6	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc493183983.xls	2	1	6	22492738.36	Serial	NA	Yes	1	Yes	2	3	3	20	20	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc494622173.xls	1	1	2	1.07E+09	Serial	NA	No	NA	Yes	1	3	5	20	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc494759433.xls	1	1	5	2.00E+05	Parallel	30	Yes	5	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc498387256.xls	2	1	5	914860	Parallel	30	Yes	5	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc498604227.xls	2	1	5	601928	Parallel	30	Yes	3	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc500169225.xls	1	1	4	304960	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc502486650.xls	1	1	4	897695	Parallel	60	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc503217821.xls	1	1	6	1483705	Parallel	60	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc511272048.xls	2	1	4	430900	Serial	NA	Yes	5	Yes	4	5	5	30	30	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc512029868.xls	2	1	3	282152.16	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc513178999.xls	2	5500	3	1188000	Parallel	20	Yes	2	Yes	2	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc514653274.xls	1	6	3	90240	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc514847650.xls	2	1	5	521200	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc518280273.xls	1	1	4	603379	Parallel	30	Yes	2	Yes	4	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc519709342.xls	1	1	3	1304556.88	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc520763159.xls	1	1	4	178072	Parallel	30	Yes	5	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc521042648.xls	1	1	6	787950	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc521662307.xls	22	1	3	35184214	Parallel	50	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc521662359.xls	1	1	4	253112	Parallel	30	Yes	5	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc521835814.xls	1	1	7	425000	Parallel	30	Yes	5	Yes	7	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc522440575.xls	1	1	4	339886	Parallel	30	Yes	5	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc522449726.xls	1	2	2	50973.46	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc522548344.xls	2	3	3	13849176	Parallel	20	Yes	2	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc524017149.xls	1	1	2	1300000	Parallel	30	Yes	3	Yes	2	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	"Yes, to Buyers only"	No
+Doc524688862.xls	1	1	5	2220724	Parallel	40	Yes	2	Yes	5	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	No	"Yes, to Buyers only"	No
+Doc525165037.xls	1	1	6	1734500	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc526478730.xls	1	1000	2	140000	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc527632912.xls	1	1	3	148430	Parallel	30	Yes	5	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc528400258.xls	1	1	5	1430400	Parallel	30	Yes	5	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc528424465.xls	1	1	4	367800	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc528468747.xls	1	1	2	5203800	Serial	NA	Yes	2	Yes	2	5	5	20	10	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	"Yes, to Buyers only"	No
+Doc529968594.xls	1	1	5	4609687.879	Parallel	40	Yes	3	Yes	5	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc530446955.xls	1	1	3	551200	Parallel	30	Yes	5	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc531378998.xls	1	1	3	494825	Parallel	30	Yes	3	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc532288521.xls	1	1	3	2526382.64	Serial	NA	Yes	1	Yes	3	5	5	20	2	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	"Yes, to Buyers only"	No
+Doc532288561.xls	1	234	3	79326	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc532289033.xls	1	1	3	132895000	Serial	NA	No	NA	Yes	1	3	5	20	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	No
+Doc535028908.xls	1	1	3	260000	Parallel	30	Yes	5	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc535385259.xls	1	1	4	1445896	Parallel	40	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc537637479.xls	1	10220	3	1839600	Parallel	20	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc537643353.xls	1	1	2	462734000	Serial	NA	No	NA	Yes	1	3	5	20	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc538433238.xls	1	1	5	881510.3	Serial	NA	Yes	2	Yes	2	2	2	30	2	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	No	"Yes, to Buyers only"	No
+Doc539800473.xls	1	1	3	2522500	Parallel	40	No	NA	Yes	2	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc539814219.xls	1	1	3	77433.63	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc540646619.xls	1	1	4	1691000	Parallel	30	Yes	3	Yes	4	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers only"	No
+Doc545237567.xls	1	1	6	366829.64	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc545292041.xls	1	1	5	358010	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc545322338.xls	2	1	4	3756950	Serial	NA	Yes	3	Yes	2	3	3	45	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc545420230.xls	1	1	3	1147850	Parallel	45	Yes	3	Yes	2	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	"Yes, to Buyers only"	No
+Doc546173121.xls	1	1	4	213480	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc547469742.xls	3	1	4	1890920	Parallel	30	Yes	5	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc547722299.xls	1	4000	3	141600	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc547806822.xls	2	24	3	1250400	Parallel	20	Yes	10	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc548557778.xls	1	1	4	441529.5	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc550462027.xls	2	1	3	122641.5	Parallel	30	No	NA	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc550631825.xls	1	1	3	457102.9	Serial	NA	Yes	1	Yes	3	5	5	30	10	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc550903079.xls	2	12	2	163104	Parallel	20	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	"Yes, to Buyers only"	No
+Doc551245134.xls	1	4	3	17402	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc552699700.xls	1	1	5	295862	Parallel	30	Yes	5	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc552707809.xls	4	1612.75	4	5218214	Parallel	30	Yes	5	Yes	4	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc552741927.xls	1	1	3	112400	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc553771924.xls	1	1	3	77876.11	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc553771969.xls	4	1	5	1653684.02	Serial	NA	Yes	5	Yes	2	3	3	20	20	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc553807498.xls	1	1	3	523325	Serial	NA	Yes	2	Yes	3	5	5	20	10	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc554218716.xls	3	216666.6667	2	8382500000	Serial	NA	Yes	2	Yes	1	2	2	20	10	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc554592649.xls	1	1	6	476850	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc556626982.xls	2	5000	4	287600	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc556679170.xls	2	15000	2	910000	Serial	NA	Yes	1	Yes	3	1	1	5	5	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc556839222.xls	1	1	4	1912646.7	Serial	NA	Yes	1	Yes	3	5	5	60	10	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc559543638.xls	1	1	3	296300	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc560123035.xls	2	1	5	428400	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc561272957.xls	1	1	6	1872770	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc561632123.xls	1	1	4	306000	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc562118933.xls	1	5000	3	180000	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc562124854.xls	1	1	2	95660	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc562180523.xls	122	1	5	6953288	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc562994260.xls	1	1	4	123820	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc563520968.xls	4	2300	6	27600000	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc563759601.xls	16	70	3	306073.76	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc563759696.xls	1	1	4	1030829.8	Serial	NA	Yes	1	Yes	3	5	5	60	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc563786045.xls	2	1	3	1062000	Serial	NA	Yes	1	Yes	3	1	1	10	5	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc564197817.xls	1	1	3	384691	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc564366108.xls	1	1	5	3217550	Parallel	30	Yes	3	Yes	5	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc567429493.xls	8	260	3	739978.6	Serial	NA	Yes	1	Yes	2	1	1	10	10	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc567942594.xls	2	1	5	2393680	Parallel	40	Yes	2	Yes	5	5	5	NA	NA	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc568013604.xls	1	3000	3	11250000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc568396651.xls	1	1	6	1090000	Parallel	30	Yes	2	Yes	6	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc569280885.xls	1	1	4	1962408	Parallel	30	Yes	3	Yes	4	3	3	NA	NA	Yes	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc570621695.xls	1	14000	3	157780	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc572230390.xls	4	1	5	2138972	Parallel	30	Yes	2	Yes	2	2	2	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc573787620.xls	1	1	6	437000	Parallel	30	Yes	2	Yes	6	5	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc574521843.xls	1	1	4	2123893.8	Parallel	30	Yes	5	Yes	4	5	5	NA	NA	Yes	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc576091310.xls	1	1	4	1563297	Parallel	40	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc578750365.xls	1	1	6	3582941	Parallel	30	Yes	3	Yes	6	3	3	NA	NA	Yes	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc578760274.xls	5	1	3	123894	Parallel	30	No	NA	Yes	3	5	5	NA	NA	No	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc578881804.xls	2	1	4	2995047	Parallel	30	Yes	5	Yes	4	5	5	NA	NA	Yes	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc579512918.xls	1	1	4	123000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	Yes	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers only"	No
+Doc580405613.xls	9	1.777777778	2	6020000	Serial	NA	Yes	3	Yes	2	5	5	20	10	Yes	Allow prebids	Nominal amount	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc581433118.xls	1	1	3	15579436	Parallel	45	Yes	3	Yes	3	3	3	NA	NA	Yes	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc584764403.xls	1	1	3	84870.4	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	Yes
+Doc586961394.xls	1	1	2	6384204	Parallel	15	Yes	2	Yes	1	2	2	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc586967842.xls	1	1	4	896160	Parallel	30	Yes	3	Yes	4	3	3	NA	NA	Yes	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc586993801.xls	26	1	3	480937	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc587945127.xls	1	1	5	213500	Serial	NA	Yes	2	Yes	3	5	5	30	2	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc596964654.xls	1	1	2	1017231	Serial	NA	Yes	2	Yes	2	5	5	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	Their own rank when leading	"Yes, to Buyers and Participants"	Yes
+Doc600338821.xls	2	1	1	1289400	Serial	NA	Yes	1	Yes	1	2	2	20	10	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc601197224.xls	1	1	2	374770	Serial	NA	No	NA	Yes	2	3	3	10	10	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc602222128.xls	1	1	3	697000	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc603195455.xls	1	1	3	229445	Serial	NA	Yes	2	Yes	3	5	5	70	10	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc603197262.xls	1	38200	5	265490	Parallel	20	Yes	2	Yes	5	3	3	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc603226250.xls	1	1	5	334010	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	Yes	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc604175544.xls	1	1	3	139472	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc604182199.xls	12	1	4	291402.58	Parallel	30	Yes	2	Yes	4	3	3	NA	NA	Yes	Do not allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc604240640.xls	1	1	3	485200.57	Serial	NA	Yes	1	Yes	3	10	10	30	2	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc605222940.xls	2	1	4	210182	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	Yes	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc605319828.xls	1	12	4	648000	Parallel	30	Yes	2	Yes	4	2	2	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc605351532.xls	1	1	2	1701560	Parallel	20	Yes	2	Yes	1	6	6	NA	NA	Yes	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc606216757.xls	2	2218	4	576680	Serial	NA	Yes	2	Yes	3	3	3	30	10	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc607267601.xls	1	1	2	456000	Serial	NA	Yes	2	Yes	1	4	4	15	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc608197999.xls	1	1	4	430910	Parallel	20	Yes	2	Yes	4	3	3	NA	NA	Yes	Do not allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc609399277.xls	1	1	4	172500	Serial	NA	Yes	2	Yes	3	5	5	70	10	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc609481117.xls	1	1	4	209736	Serial	NA	Yes	2	Yes	3	5	5	30	2	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc610993690.xls	1	1	2	752946	Serial	NA	Yes	2	Yes	1	3	3	20	2	Yes	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	Yes
+Doc611735073.xls	2	1	3	112000	Parallel	30	No	NA	Yes	3	5	5	NA	NA	No	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc611776791.xls	1	1	3	115000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc611818023.xls	4	10000	6	1.36E+08	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	Yes	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc611888200.xls	1	1	3	75150	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	Yes
+Doc611911552.xls	1	1	3	72752	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc614057876.xls	1	1	3	344249	Parallel	30	Yes	5	Yes	3	5	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc615098869.xls	1	1	3	250000	Serial	NA	Yes	2	Yes	2	5	5	20	2	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc616360739.xls	2	1	4	384000	Serial	NA	Yes	2	Yes	3	5	5	30	2	Yes	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc616438773.xls	1	1	4	398890	Serial	NA	Yes	2	Yes	3	5	5	45	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	Yes
+Doc617327096.xls	1	1	3	232555	Serial	NA	Yes	2	Yes	3	5	5	10	2	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc617354096.xls	2	30000	3	91800	Serial	NA	Yes	2	Yes	3	2	5	30	2	Yes	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc617448514.xls	1	1	4	135000	Serial	NA	Yes	2	Yes	4	5	5	30	2	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc618163460.xls	1	1	3	70626.55	Serial	NA	Yes	2	Yes	3	5	5	40	2	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	Yes
+Doc618418291.xls	1	1	4	1549934	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	Yes	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc618455251.xls	1	1	3	417237.73	Serial	NA	Yes	2	No	NA	NA	NA	30	2	Yes	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc619379470.xls	1	1	2	4244430.4	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	Yes	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc620252475.xls	1	7	3	71631	Parallel	10	Yes	2	Yes	3	5	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc620319376.xls	1	1	5	462858	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc621441747.xls	1	1	3	544300	Parallel	45	Yes	2	Yes	3	5	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc621519246.xls	1	1	3	184100	Parallel	5	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc622479254.xls	2	1	3	163212	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc622590949.xls	2	1	6	1981476	Parallel	30	Yes	2	Yes	6	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc622689540.xls	2	1	2	310000	Serial	NA	Yes	2	Yes	1	3	3	25	2	NA	Do not allow prebids	Nominal amount	Yes	No tie bids	Yes	No	No	No	Yes
+Doc623535243.xls	1	1	5	3793210	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc623553340.xls	1	35	2	89775	Parallel	20	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc624745961.xls	1	1	3	189200	Parallel	20	Yes	2	Yes	3	2	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc625892615.xls	1	1	3	101936	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc627355198.xls	1	1	3	91940	Serial	NA	Yes	2	Yes	3	5	5	30	2	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc627355753.xls	1	1	5	760000	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc628145111.xls	2	2	3	365100	Serial	NA	Yes	2	Yes	2	3	3	30	2	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc629135973.xls	1	1	4	463275	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc630095387.xls	2	1	5	2008600	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	Yes	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc630650706.xls	2	1	2	520000	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	Yes
+Doc631093029.xls	1	1	3	74650	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc631126204.xls	1	1	3	61832	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc632364985.xls	2	1	4	114800	Serial	NA	Yes	2	Yes	4	5	5	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc632565528.xls	1	1	6	572254	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc633371593.xls	1	1	4	3127392	Serial	NA	Yes	2	Yes	2	2	2	45	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc633371595.xls	3	1	5	9855224.94	Serial	NA	Yes	2	Yes	3	5	5	45	30	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc633398690.xls	1	1	4	296643	Parallel	20	Yes	2	Yes	4	5	5	NA	NA	Yes	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc633407140.xls	1	1	3	1305146.7	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc633423817.xls	2	1	5	2397600	Parallel	45	Yes	2	Yes	2	2	2	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc634532551.xls	1	1	5	366928	Serial	NA	Yes	2	Yes	2	2	2	45	1	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc634555082.xls	1	1	3	210275	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc634582330.xls	1	1	4	539000	Serial	NA	Yes	2	Yes	5	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc634595319.xls	8	23125	6	9566400	Serial	NA	Yes	2	Yes	3	2	2	5	3	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc634686591.xls	1	1	5	4878000	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc637682090.xls	1	1	4	149858	Serial	NA	Yes	2	Yes	4	5	5	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc637683531.xls	1	1	5	674000	Parallel	45	Yes	2	Yes	2	2	2	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc637779416.xls	1	1	4	210000	Serial	NA	Yes	2	Yes	3	2	5	10	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc638501542.xls	2	110	3	335000	Parallel	20	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc639557871.xls	1	24	3	768000	Serial	NA	Yes	2	Yes	3	5	5	20	2	NA	Allow prebids	Percentage	No	Allow tie bids for all ranks	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc640291464.xls	2	1	4	481158	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc641397186.xls	1	1	4	55800	Serial	NA	Yes	2	Yes	1	2	2	30	2	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	Yes
+Doc641410829.xls	2	1	3	820050	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc641411375.xls	2	1	4	604000	Parallel	70	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc641417949.xls	1	1	4	446000	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc642354405.xls	1	1	3	3174000	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc643433203.xls	4	1	5	9549362.79	Serial	NA	Yes	2	Yes	5	5	5	20	20	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc645393867.xls	1	1	4	187850	Parallel	70	Yes	2	Yes	4	2	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc645471091.xls	1	1	4	1092965	Serial	NA	Yes	2	Yes	3	2	2	30	2	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc646545941.xls	1	1	5	1449076	Parallel	70	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc646612361.xls	1	1	5	1219367	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc646996526.xls	1	1	6	1178950	Serial	NA	Yes	2	Yes	5	5	5	30	2	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc647309795.xls	1	1	3	259770	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	Yes
+Doc647384576.xls	1	1	3	358893	Serial	NA	Yes	2	Yes	3	3	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	Yes
+Doc647987082.xls	1	1	3	415280	Parallel	20	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc647987575.xls	1	1	3	522302	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc648971930.xls	1	1	6	54686	Parallel	70	Yes	2	Yes	5	2	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc649828296.xls	1	1	4	330610	Serial	NA	Yes	2	Yes	2	5	5	70	2	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	Yes
+Doc649848864.xls	1	1	6	310734	Serial	NA	Yes	2	Yes	5	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc649887369.xls	1	3	3	65340	Serial	NA	Yes	2	Yes	3	1	5	10	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc649935948.xls	1	1	4	312912	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc650013890.xls	1	1	3	191118	Parallel	10	Yes	2	Yes	3	2	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc650890985.xls	1	1	4	268000	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc650904324.xls	1	1	4	430000	Parallel	30	Yes	2	Yes	4	2	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc655605133.xls	1	1	4	119040	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	Yes	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc655676007.xls	1	1	3	94500	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc655829901.xls	3	1	6	17775920.8	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc655829984.xls	1	1	4	429414	Parallel	30	Yes	2	Yes	4	3	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc655848388.xls	1	1	5	515272.5	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc656817341.xls	6	1	5	10411108	Parallel	45	Yes	2	Yes	2	2	2	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc657610069.xls	1	1	3	144000	Parallel	30	Yes	2	Yes	3	2	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc657619747.xls	22	1	4	316055	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc658098888.xls	2	1	5	1348000	Parallel	45	Yes	2	Yes	2	2	2	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc659205163.xls	1	12	3	110679.6	Parallel	30	No	NA	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc659346685.xls	6	1	4	6195800	Serial	NA	Yes	2	Yes	4	5	5	20	20	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc660216802.xls	1	1	5	808013	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc660282265.xls	1	1	5	47100	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc661248355.xls	2	1	6	1231940	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc661340670.xls	1	1	5	824810	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc662048602.xls	2	1	3	1087150	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	No	No
+Doc663379591.xls	4	1	3	1499646	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc663398567.xls	19	1006.526316	3	3056300	Parallel	20	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc664246908.xls	1	1	4	524453	Serial	NA	Yes	2	Yes	4	5	5	30	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	No	Yes
+Doc664269638.xls	1	1	6	385570	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc666381012.xls	1	1	4	888833	Parallel	20	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc667544064.xls	1	1	5	586584	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc667547814.xls	1	3	3	358407.09	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc667702940.xls	1	1	3	507600	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc667804830.xls	1	1	4	478076	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc669311081.xls	1	1	4	473480	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc669583233.xls	1	1	6	1520488.2	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc670161312.xls	1	1	4	443400	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc670162922.xls	1	1	3	1189151	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc670229504.xls	1	1	2	718498.11	Parallel	10	No	NA	Yes	2	2	2	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc670230184.xls	3	1	2	1582934.91	Serial	NA	Yes	1	Yes	2	2	2	10	10	NA	Allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc670344501.xls	1	1	5	298635	Parallel	70	Yes	2	Yes	5	2	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc670400207.xls	1	1	5	6720742	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc671090680.xls	1	1	5	4905105	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc672008766.xls	11	6.5	3	387540	Parallel	40	Yes	2	Yes	4	2	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc672010284.xls	1	1	3	513085	Parallel	60	Yes	2	Yes	2	2	2	NA	NA	Yes	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc672015879.xls	22	28327.27273	5	8414892	Serial	NA	Yes	2	Yes	2	2	2	5	3	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc672061019.xls	2	1	3	654270	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc672061069.xls	2	1	4	683200	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc672098124.xls	1	2	3	87610.62	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc673502975.xls	1	1	3	158905	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc674245603.xls	1	1	5	848598	Parallel	20	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc674246378.xls	1	1	3	165705	Serial	NA	Yes	2	Yes	2	2	2	45	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc674257511.xls	1	1	3	517047	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc674257551.xls	1	1	4	356600	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc674327208.xls	1	1	3	64336.28	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc674345111.xls	1	1	4	870500	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc674431821.xls	1	1	5	645550	Parallel	30	Yes	2	Yes	5	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc675157179.xls	1	1	3	55052	Parallel	30	No	NA	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc675274209.xls	1	1	7	421800	Parallel	30	Yes	2	Yes	7	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc676080044.xls	2	1	6	4489240	Parallel	30	Yes	2	Yes	6	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc678508437.xls	1	1	3	69800	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc678512427.xls	1	1	3	2113080	Parallel	20	No	NA	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc678537488.xls	1	1	3	103030	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc678556554.xls	1	1	3	1033678	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc678608736.xls	1	1	3	329747	Serial	NA	Yes	2	Yes	2	2	2	45	2	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc679364494.xls	6	1666.666667	3	213500	Serial	NA	Yes	1	Yes	2	1	2	5	3	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc679430021.xls	1	1	3	89000	Serial	NA	Yes	2	Yes	3	1	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc680237850.xls	1	1	4	300800	Parallel	30	Yes	2	Yes	4	2	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc680265180.xls	1	1	4	452606	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc680311422.xls	1	1	4	136995	Serial	NA	Yes	2	Yes	4	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc680334973.xls	1	1	4	525600	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc680421028.xls	1	1	4	398750	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc681154556.xls	1	1	6	584900	Parallel	30	Yes	2	Yes	6	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc681156364.xls	1	9720	3	3888000	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc681165741.xls	1	1	3	118792	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc681327304.xls	1	1	3	138990	Serial	NA	Yes	2	Yes	3	2	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc682267032.xls	6	1	3	452205	Parallel	30	Yes	2	Yes	3	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc682268330.xls	1	1	4	61720	Serial	NA	Yes	2	Yes	4	2	3	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc682291114.xls	1	1	4	383897	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc684616193.xls	1	1	2	23999880	Parallel	30	Yes	2	Yes	2	3	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	No	No	No
+Doc684777494.xls	1	1	4	731248	Serial	NA	Yes	2	Yes	4	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc684897691.xls	10	6700	4	1185600	Serial	NA	Yes	1	Yes	2	1	2	5	3	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc685741362.xls	1	1	4	256215	Parallel	70	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc685828816.xls	1	1	3	1014342	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc686598137.xls	2	1	3	549734.51	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc687676732.xls	1	1	4	61320.72	Parallel	30	No	NA	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc687683383.xls	2	1	2	3505950	Parallel	20	No	NA	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc687705135.xls	1	1	1	929260	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc687747442.xls	1	1	3	3.70E+08	Parallel	30	No	NA	No	NA	NA	NA	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc689237916.xls	1	1	3	1861430	Parallel	15	No	NA	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	No
+Doc690060899.xls	1	1	4	272585.5	Parallel	30	Yes	2	Yes	3	3	3	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc690138981.xls	1	1	3	71400	Serial	NA	Yes	2	Yes	3	2	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc690983438.xls	1	1	1	1120595	Parallel	15	Yes	2	Yes	3	3	3	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	Yes	No	No	No	Yes
+Doc691018930.xls	1	1	3	745531	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc691018973.xls	1	1	5	2591600	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc691043762.xls	1	1	3	2751353	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc691156101.xls	2	3	4	612000	Parallel	30	Yes	2	Yes	3	2	3	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc691828509.xls	2	1	3	476740	Serial	NA	Yes	2	Yes	3	1	5	20	2	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc694116698.xls	3	27675	3	2107543	Serial	NA	Yes	2	Yes	3	5	5	20	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc695010697.xls	1	1	2	1422502.38	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc695101926.xls	1	1	3	3015966	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc695101967.xls	1	1	4	247500	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc695182467.xls	3	73.33333333	3	280070.4	Parallel	30	Yes	2	Yes	2	2	5	NA	NA	NA	Allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc695219504.xls	1	1	4	1305172	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	Their own rank when leading	"Yes, to Buyers and Participants"	No
+Doc695237928.xls	1	1	5	11430000	Parallel	45	Yes	2	Yes	3	2	2	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc695237995.xls	3	1	3	1400532	Serial	NA	Yes	1	Yes	3	5	5	60	30	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc695259828.xls	1	1	6	652813	Parallel	30	Yes	2	Yes	2	5	5	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc696085240.xls	1	1	5	1928879	Serial	NA	Yes	2	Yes	3	5	5	30	2	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc699759277.xls	2	1	3	1.16E+09	Parallel	30	No	NA	Yes	3	1	1	NA	NA	NA	Do not allow prebids	Nominal amount	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc699778079.xls	1	1	4	518210	Parallel	70	Yes	2	Yes	3	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	No
+Doc699822213.xls	1	1	3	685824	Parallel	30	Yes	2	Yes	3	2	2	NA	NA	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc699822294.xls	2	1	5	10897907.9	Serial	NA	Yes	2	Yes	3	2	2	30	30	NA	Allow prebids	Percentage	No	No tie bids	Yes	No	No	No	No
+Doc699923520.xls	1	1	3	90600	Serial	NA	Yes	2	Yes	3	5	5	20	2	NA	Allow prebids	Percentage	No	No tie bids	No	No	No	No	No
+Doc700582054.xls	1	1	4	204077	Parallel	30	Yes	2	Yes	4	5	5	NA	NA	NA	Do not allow prebids	Percentage	No	No tie bids	No	No	Their own rank	"Yes, to Buyers and Participants"	Yes
